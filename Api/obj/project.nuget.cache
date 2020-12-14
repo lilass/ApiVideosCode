@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNlAOlrKdF02a7hEHjW1Ukp0AjI1mfu8yAga0MZUzgRV6wRCUy62uitg917PVK3wYUy7KnLVw9qk6H5kKNjZiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lilas\\source\\repos\\Authentication\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lilas\\.nuget\\packages\\microsoft.identity.client\\4.24.0\\microsoft.identity.client.4.24.0.nupkg.sha512"
+  ],
+  "logs": []
+}

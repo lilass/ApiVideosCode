@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7BNgUejFnC5MWH7ejs1VrEojqquiQ+HHIBWK98h8AqSkkkG4vx7ygvQouLcgduELorxHHo3h1HoANRQ+8lcoPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lilas\\source\\repos\\Authentication\\Basics\\Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lilas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
